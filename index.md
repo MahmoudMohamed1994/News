@@ -1,10 +1,12 @@
-# CCN **Spy balloon part of a broader Chinese military surveillance operation, US intel sources say**
+
+# CCN
+
+**Spy balloon part of a broader Chinese military surveillance operation, US intel sources say**
 
 US intelligence officials believe that the recently recovered Chinese spy balloon is part of an extensive surveillance program run by the Chinese military, according to multiple American officials familiar with the intelligence. 
  
 **Meanwhile at a government lab in Quantico**, Virginia, an elite team of FBI engineers is poring over the remnants of the recovered balloon, *trying to learn* 
-#### everything it can about the intelligence it may have gathered and how best to track surveillance balloons in the future.
-#### February 4, 2023 US shoots down Chinese spy balloon off East Coast
+February 4, 2023 US shoots down Chinese spy balloon off East Coast
 
 1. President Joe Biden approved shooting down the balloon, the same US official told CNN.
 1. On Friday, the Pentagon said the balloon did not pose a military or political threat.
